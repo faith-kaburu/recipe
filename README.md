@@ -1,74 +1,61 @@
+## Recipe Box
+ # Problem Statement:
+Cooking professionals often struggle to organize and access their favorite recipes in one place.
+They need a simple and user-friendly solution to store, manage, and share their recipes
+conveniently.
+# Solution:
+I propose to build a Recipe Box application that allows users to create, store, and view their
+favorite recipes. The Recipe Box will offer an intuitive interface, making it easy for users to add,
+edit, and delete recipes. It will also include features to search for recipes .
+ ## Minimum Viable Product (MVP):
+1. landing page-to introduce the recipe box and its features
 
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+2. User login-log in to access their personal recipe collection
 
-## Available Scripts
 
-In the project directory, you can run:
+3. Recipe details-user can view detailed information about a specific recipe
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+4. Recipe Creation Form-users can create a recipe by filling out the form
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+5. Recipe listing-all the user's recipes will be listed here
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+6. Recipe deletion-users can delete recipes that they no longer use
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+7. Search bar-allow users to search specific recipes
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+8. User-friendly interface- for smooth interaction by the user
+## usage
+1.clone the github repository
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+2.navigate the project folder
+`cd recipe`
+3.Install dependencies
+`npm install`
+4.Run the app 
+`npm start`
+5.The project is deployed in netlify as https://64ccc964a3461a736747ea0b--stalwart-faun-3e9f95.netlify.app/
+## Backend service:
+API
+Database
+ 
+## Technology to be used :
+React js- Frontend development
+material UI
+Netlify-deploying the website
+Github
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# Author
+Author:[Faith Kaburu]
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+# license
+MIT LICENSE
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
-# recipe
->>>>>>> 38949c8ecf198450adcf65f425b3c42521c26700
